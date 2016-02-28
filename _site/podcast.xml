@@ -3,7 +3,7 @@
   <channel>
     <title>Good Bad Show</title>
     <link>http://mattmotel.github.io/goodbadshow/</link>
-    <pubDate>Sun, 28 Feb 2016 02:03:06 -0500</pubDate>
+    <pubDate>Sun, 28 Feb 2016 02:06:59 -0500</pubDate>
     <description>Andy believes that a thing can be objectively good. Matt does not. So is this thing good or bad?
 </description>
     <language>en-us</language>
@@ -26,7 +26,7 @@
 
     
       <item>
-        <title>Oohhh</title>
+        <title>Chairs</title>
         <link>http://mattmotel.github.io/goodbadshow/9</link>
         <guid isPermaLink="true">http://mattmotel.github.io/goodbadshow/9</guid>
         <pubDate>Sun, 21 Feb 2016 17:18:06 -0500</pubDate>
@@ -35,7 +35,7 @@
 </description>
         <enclosure url="http://fdlyr.co/d/onthegrid/cdn.5by5.tv/audio/broadcasts/onthegrid/2016/onthegrid-154.mp3" length="52156635" type="audio/mp3"/>    
         
-        <category>movies</category>
+        <category>home</category>
         
         <category>good</category>
         
@@ -45,7 +45,7 @@
 </itunes:summary>
         <itunes:duration>52:12</itunes:duration>
         
-        <itunes:keywords>movies</itunes:keywords>
+        <itunes:keywords>home</itunes:keywords>
         
         <itunes:keywords>good</itunes:keywords>
         
@@ -54,7 +54,7 @@
       </item>
     
       <item>
-        <title>Others</title>
+        <title>Paints</title>
         <link>http://mattmotel.github.io/goodbadshow/8</link>
         <guid isPermaLink="true">http://mattmotel.github.io/goodbadshow/8</guid>
         <pubDate>Sun, 21 Feb 2016 17:18:06 -0500</pubDate>
@@ -63,9 +63,9 @@
 </description>
         <enclosure url="http://fdlyr.co/d/onthegrid/cdn.5by5.tv/audio/broadcasts/onthegrid/2016/onthegrid-154.mp3" length="52156635" type="audio/mp3"/>    
         
-        <category>movies</category>
+        <category>home</category>
         
-        <category>good</category>
+        <category>bad</category>
         
         <itunes:author>Matt McInerney, Andy Mangold matt@matt.cc</itunes:author>
         <itunes:subtitle>hy</itunes:subtitle>
@@ -73,9 +73,9 @@
 </itunes:summary>
         <itunes:duration>52:12</itunes:duration>
         
-        <itunes:keywords>movies</itunes:keywords>
+        <itunes:keywords>home</itunes:keywords>
         
-        <itunes:keywords>good</itunes:keywords>
+        <itunes:keywords>bad</itunes:keywords>
         
         <itunes:image href="http://icebox.5by5.tv/images/broadcasts/76/cover_quarter.jpg" />
         <itunes:explicit>no</itunes:explicit>
@@ -91,7 +91,7 @@
 </description>
         <enclosure url="http://fdlyr.co/d/onthegrid/cdn.5by5.tv/audio/broadcasts/onthegrid/2016/onthegrid-154.mp3" length="52156635" type="audio/mp3"/>    
         
-        <category>movies</category>
+        <category>animals</category>
         
         <category>good</category>
         
@@ -101,7 +101,7 @@
 </itunes:summary>
         <itunes:duration>52:12</itunes:duration>
         
-        <itunes:keywords>movies</itunes:keywords>
+        <itunes:keywords>animals</itunes:keywords>
         
         <itunes:keywords>good</itunes:keywords>
         

@@ -3,8 +3,8 @@ layout: post
 title:  "Dogs"
 episode: 7
 date:   2016-02-21 17:18:06 -0500
-categories: movies good
-topic: The Shining
+categories: animals good
+topic: dogs
 mp3: http://fdlyr.co/d/onthegrid/cdn.5by5.tv/audio/broadcasts/onthegrid/2016/onthegrid-154.mp3
 size: 52156635
 length: "52:12"
