@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bill Burr"
-episode: 3
+episode: 5
 date:   2016-02-21 17:18:06 -0500
 categories: comedy good
 topic: Bill Burr
