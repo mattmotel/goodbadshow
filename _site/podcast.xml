@@ -3,20 +3,20 @@
   <channel>
     <title>Good Bad Show</title>
     <link>http://mattmotel.github.io/goodbadshow/</link>
-    <pubDate>Sun, 28 Feb 2016 01:12:12 -0500</pubDate>
+    <pubDate>Sun, 28 Feb 2016 01:17:01 -0500</pubDate>
     <description>Andy believes that a thing can be objectively good. Matt does not. So is this thing good or bad?
 </description>
     <language>en-us</language>
 
     <itunes:subtitle>Good Bad Show</itunes:subtitle>
-    <itunes:author>Matt McInerney and Andy Mangold</itunes:author>
+    <itunes:author>Matt McInerney, Andy Mangold</itunes:author>
     <itunes:summary>Andy believes that a thing can be objectively good. Matt does not. So is this thing good or bad?
 </itunes:summary>
     <itunes:image href="http://icebox.5by5.tv/images/broadcasts/76/cover_quarter.jpg"/>
     
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
-        <itunes:name>Matt McInerney and Andy Mangold</itunes:name>
+        <itunes:name>Matt McInerney, Andy Mangold</itunes:name>
         <itunes:email>matt@matt.cc</itunes:email>
     </itunes:owner>
     <itunes:category text="Arts">
@@ -30,7 +30,7 @@
         <link>http://mattmotel.github.io/goodbadshow/3</link>
         <guid isPermaLink="true">http://mattmotel.github.io/goodbadshow/3</guid>
         <pubDate>Sun, 21 Feb 2016 17:18:06 -0500</pubDate>
-        <author>Matt McInerney and Andy Mangold matt@matt.cc</author>
+        <author>Matt McInerney, Andy Mangold matt@matt.cc</author>
         <description>&lt;p&gt;Testing testing testing testing&lt;/p&gt;
 </description>
         <enclosure url="http://fdlyr.co/d/onthegrid/cdn.5by5.tv/audio/broadcasts/onthegrid/2016/onthegrid-154.mp3" length="52156635" type="audio/mp3"/>    
@@ -39,7 +39,7 @@
         
         <category>bad</category>
         
-        <itunes:author>Matt McInerney and Andy Mangold matt@matt.cc</itunes:author>
+        <itunes:author>Matt McInerney, Andy Mangold matt@matt.cc</itunes:author>
         <itunes:subtitle>hy</itunes:subtitle>
         <itunes:summary>&lt;p&gt;Testing testing testing testing&lt;/p&gt;
 </itunes:summary>
@@ -58,7 +58,7 @@
         <link>http://mattmotel.github.io/goodbadshow/2</link>
         <guid isPermaLink="true">http://mattmotel.github.io/goodbadshow/2</guid>
         <pubDate>Sun, 21 Feb 2016 17:18:06 -0500</pubDate>
-        <author>Matt McInerney and Andy Mangold matt@matt.cc</author>
+        <author>Matt McInerney, Andy Mangold matt@matt.cc</author>
         <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
@@ -72,7 +72,7 @@
         
         <category>good</category>
         
-        <itunes:author>Matt McInerney and Andy Mangold matt@matt.cc</itunes:author>
+        <itunes:author>Matt McInerney, Andy Mangold matt@matt.cc</itunes:author>
         <itunes:subtitle>hy</itunes:subtitle>
         <itunes:summary>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
@@ -94,7 +94,7 @@
         <link>http://mattmotel.github.io/goodbadshow/1</link>
         <guid isPermaLink="true">http://mattmotel.github.io/goodbadshow/1</guid>
         <pubDate>Sat, 20 Feb 2016 12:18:06 -0500</pubDate>
-        <author>Matt McInerney and Andy Mangold matt@matt.cc</author>
+        <author>Matt McInerney, Andy Mangold matt@matt.cc</author>
         <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
@@ -118,7 +118,7 @@
         
         <category>starthere</category>
         
-        <itunes:author>Matt McInerney and Andy Mangold matt@matt.cc</itunes:author>
+        <itunes:author>Matt McInerney, Andy Mangold matt@matt.cc</itunes:author>
         <itunes:subtitle>hy</itunes:subtitle>
         <itunes:summary>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
