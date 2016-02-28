@@ -1,3 +1,3 @@
-# goodbadshow
+# README
 
-Testing
+Just edit the markdown files
