@@ -297,6 +297,12 @@ pre {
     .post-title {
       font-size: 36px; } }
 
+.episode-wrapper {
+  display: flex; }
+
+.episode {
+  width: 25%; }
+
 .post-content {
   margin-bottom: 30px; }
   .post-content h2 {

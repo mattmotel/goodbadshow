@@ -213,6 +213,13 @@
     }
 }
 
+.episode-wrapper {
+    display:flex;
+}
+.episode {
+    width:25%;
+}
+
 .post-content {
     margin-bottom: $spacing-unit;
 
