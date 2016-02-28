@@ -215,9 +215,10 @@
 
 .episode-wrapper {
     display:flex;
+    flex-wrap: wrap;
 }
 .episode {
-    width:calc(25% - 12px);
+    width:calc(25% - 22px);
     border:1px solid #000;
     padding:5px;
     margin:5px;

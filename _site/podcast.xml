@@ -3,7 +3,7 @@
   <channel>
     <title>Good Bad Show</title>
     <link>http://mattmotel.github.io/goodbadshow/</link>
-    <pubDate>Sun, 28 Feb 2016 01:26:51 -0500</pubDate>
+    <pubDate>Sun, 28 Feb 2016 01:29:59 -0500</pubDate>
     <description>Andy believes that a thing can be objectively good. Matt does not. So is this thing good or bad?
 </description>
     <language>en-us</language>
@@ -26,6 +26,118 @@
 
     
       <item>
+        <title>The Shining</title>
+        <link>http://mattmotel.github.io/goodbadshow/6</link>
+        <guid isPermaLink="true">http://mattmotel.github.io/goodbadshow/6</guid>
+        <pubDate>Sun, 21 Feb 2016 17:18:06 -0500</pubDate>
+        <author>Matt McInerney, Andy Mangold matt@matt.cc</author>
+        <description>&lt;p&gt;Testing testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testing&lt;/p&gt;
+</description>
+        <enclosure url="http://fdlyr.co/d/onthegrid/cdn.5by5.tv/audio/broadcasts/onthegrid/2016/onthegrid-154.mp3" length="52156635" type="audio/mp3"/>    
+        
+        <category>movies</category>
+        
+        <category>good</category>
+        
+        <itunes:author>Matt McInerney, Andy Mangold matt@matt.cc</itunes:author>
+        <itunes:subtitle>hy</itunes:subtitle>
+        <itunes:summary>&lt;p&gt;Testing testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testing&lt;/p&gt;
+</itunes:summary>
+        <itunes:duration>52:12</itunes:duration>
+        
+        <itunes:keywords>movies</itunes:keywords>
+        
+        <itunes:keywords>good</itunes:keywords>
+        
+        <itunes:image href="http://icebox.5by5.tv/images/broadcasts/76/cover_quarter.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      <item>
+        <title>Bill Burr</title>
+        <link>http://mattmotel.github.io/goodbadshow/5</link>
+        <guid isPermaLink="true">http://mattmotel.github.io/goodbadshow/5</guid>
+        <pubDate>Sun, 21 Feb 2016 17:18:06 -0500</pubDate>
+        <author>Matt McInerney, Andy Mangold matt@matt.cc</author>
+        <description>&lt;p&gt;Testing testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testing&lt;/p&gt;
+</description>
+        <enclosure url="http://fdlyr.co/d/onthegrid/cdn.5by5.tv/audio/broadcasts/onthegrid/2016/onthegrid-154.mp3" length="52156635" type="audio/mp3"/>    
+        
+        <category>comedy</category>
+        
+        <category>good</category>
+        
+        <itunes:author>Matt McInerney, Andy Mangold matt@matt.cc</itunes:author>
+        <itunes:subtitle>hy</itunes:subtitle>
+        <itunes:summary>&lt;p&gt;Testing testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testing&lt;/p&gt;
+</itunes:summary>
+        <itunes:duration>52:12</itunes:duration>
+        
+        <itunes:keywords>comedy</itunes:keywords>
+        
+        <itunes:keywords>good</itunes:keywords>
+        
+        <itunes:image href="http://icebox.5by5.tv/images/broadcasts/76/cover_quarter.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      <item>
+        <title>Planes, Planes, Planes</title>
+        <link>http://mattmotel.github.io/goodbadshow/4</link>
+        <guid isPermaLink="true">http://mattmotel.github.io/goodbadshow/4</guid>
+        <pubDate>Sun, 21 Feb 2016 17:18:06 -0500</pubDate>
+        <author>Matt McInerney, Andy Mangold matt@matt.cc</author>
+        <description>&lt;p&gt;Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing&lt;/p&gt;
+</description>
+        <enclosure url="http://fdlyr.co/d/onthegrid/cdn.5by5.tv/audio/broadcasts/onthegrid/2016/onthegrid-154.mp3" length="52156635" type="audio/mp3"/>    
+        
+        <category>transport</category>
+        
+        <category>planes</category>
+        
+        <category>bad</category>
+        
+        <itunes:author>Matt McInerney, Andy Mangold matt@matt.cc</itunes:author>
+        <itunes:subtitle>hy</itunes:subtitle>
+        <itunes:summary>&lt;p&gt;Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing
+Testing testing testing testing&lt;/p&gt;
+</itunes:summary>
+        <itunes:duration>52:12</itunes:duration>
+        
+        <itunes:keywords>transport</itunes:keywords>
+        
+        <itunes:keywords>planes</itunes:keywords>
+        
+        <itunes:keywords>bad</itunes:keywords>
+        
+        <itunes:image href="http://icebox.5by5.tv/images/broadcasts/76/cover_quarter.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      <item>
         <title>Cars</title>
         <link>http://mattmotel.github.io/goodbadshow/3</link>
         <guid isPermaLink="true">http://mattmotel.github.io/goodbadshow/3</guid>
@@ -39,6 +151,8 @@
         
         <category>bad</category>
         
+        <category>transport</category>
+        
         <itunes:author>Matt McInerney, Andy Mangold matt@matt.cc</itunes:author>
         <itunes:subtitle>hy</itunes:subtitle>
         <itunes:summary>&lt;p&gt;Testing testing testing testing&lt;/p&gt;
@@ -48,6 +162,8 @@
         <itunes:keywords>car</itunes:keywords>
         
         <itunes:keywords>bad</itunes:keywords>
+        
+        <itunes:keywords>transport</itunes:keywords>
         
         <itunes:image href="http://icebox.5by5.tv/images/broadcasts/76/cover_quarter.jpg" />
         <itunes:explicit>no</itunes:explicit>
