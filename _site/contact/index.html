@@ -84,17 +84,20 @@
   </header>
 
   <div class="post-content">
-    <form action="https://getsimpleform.com/messages?form_api_token=f09068d092e7a1d0649ab807a8d7e625" method="post">
+    <form action="//formspree.io/matt@matt.cc" method="POST">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type="hidden" name="redirect_to" value="http://mattmotel.github.io/goodbadshow/" />
+
+
+  <input type="hidden" name="_next" value="http://mattmotel.github.io/goodbadshow/" />
   <!-- all your input fields here.... -->
+
   <p><label>Name</label>
   <input type="text" name="name" /></p>
   <p><label>Email</label>
-  <input type="text" name="email" /></p>
+  <input type="email" name="_replyto" /></p>
   <p><label>Message</label>
   <textarea name="message"></textarea></p>
-  <input type="submit" value="submit" />
+  <input type="submit" value="Send" />
 </form>
 
 

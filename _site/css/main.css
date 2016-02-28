@@ -341,6 +341,9 @@ pre {
   border: 1px solid #ccc;
   padding: 15px; }
 
+label {
+  display: block; }
+
 .post-content {
   margin-bottom: 30px; }
   .post-content h2 {
