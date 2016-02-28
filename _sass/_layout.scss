@@ -242,6 +242,23 @@
     text-align:right;
 }
 
+.post {
+    position: relative;
+}
+.post-episode {
+    position:absolute;
+    top:-35px;
+    right:0px;
+    font-size:128px;
+    opacity:.1;
+    text-align:right;
+}
+.post-download {
+    border-radius:5px;
+    background-color: lightgray;
+    padding:15px;
+}
+
 .post-content {
     margin-bottom: $spacing-unit;
 
