@@ -11,7 +11,7 @@ permalink: /categories/
     {% for posts in category %}
     {% for post in posts %}
 {% if post.title == null  %} {% else %}
-<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+<li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
   {% endif %}
       {% endfor %}
     {% endfor %}

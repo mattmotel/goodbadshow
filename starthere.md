@@ -9,7 +9,7 @@ permalink: /starthere/
 <ul>
   {% for post in site.categories.starthere %}
     {% if post.url %}
-        <li><a href="{{ post.url | prepend: site.baseurl  }}">{{ post.title }}</a></li>
+        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>

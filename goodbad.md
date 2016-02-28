@@ -9,7 +9,7 @@ permalink: /directory/
 <ul>
   {% for post in site.categories.good %}
     {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.topic }}</a></li>
+        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.topic }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
@@ -19,7 +19,7 @@ permalink: /directory/
 <ul>
   {% for post in site.categories.bad %}
     {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.topic }}</a></li>
+        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.topic }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
