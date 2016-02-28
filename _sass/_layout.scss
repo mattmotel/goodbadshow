@@ -219,7 +219,8 @@
 }
 .episode {
     width:calc(25% - 22px);
-    border:1px solid #000;
+    border:1px solid #ccc;
+    border-radius:5px;
     padding:5px;
     margin:5px;
     position:relative;
@@ -255,7 +256,8 @@
 }
 .post-download {
     border-radius:5px;
-    background-color: lightgray;
+    background-color: #eee;
+    border:1px solid #ccc;
     padding:15px;
 }
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Paints"
 episode: 8
-date:   2016-02-21 17:18:06 -0500
+date:   2016-02-25 17:18:06 -0500
 categories: home bad
 topic: paint
 mp3: http://fdlyr.co/d/onthegrid/cdn.5by5.tv/audio/broadcasts/onthegrid/2016/onthegrid-154.mp3
@@ -10,4 +10,7 @@ size: 52156635
 length: "52:12"
 ---
 
-Testing testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testingTesting testing testing testing
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi malesuada nisl at condimentum congue. Nam elementum ultrices nibh, a commodo augue pellentesque sit amet. Aliquam quis turpis commodo, rutrum mauris in, aliquet risus. Nullam molestie varius mattis. Suspendisse sed molestie turpis. Integer mi diam, mollis in eros sit amet, efficitur tincidunt ex. Suspendisse potenti. Proin eu tortor sit amet diam lobortis elementum at vel erat. Donec fermentum, nisl quis venenatis elementum, felis felis pellentesque turpis, sed sagittis urna risus a est. Donec quis vehicula nunc. Maecenas at lacinia massa. Fusce sit amet mi eros. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent sit amet lectus feugiat, porttitor nibh et, scelerisque neque. Integer tincidunt leo a neque vehicula feugiat. Proin feugiat convallis justo sed eleifend.
+
+Vestibulum vitae lacus porttitor, pretium nunc sed, dapibus felis. Proin sit amet elementum metus. Pellentesque rhoncus quis diam non maximus. Nulla euismod, elit ac faucibus iaculis, eros lacus consectetur orci, at rutrum quam lectus vitae tortor. Nunc vel maximus sapien. Pellentesque sapien mauris, ornare a consectetur non, venenatis at tortor. Curabitur consequat tellus at suscipit pulvinar. Phasellus sagittis nibh justo, id tempor justo consequat ut. Etiam scelerisque vehicula elit.
+
