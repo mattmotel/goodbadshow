@@ -2,13 +2,22 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-
+    //background-color:#ffd503;
+    
+    animation: gbcolor 5s infinite;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
+
+@-webkit-keyframes gbcolor {
+    0%   {background-color: #ffd503;}
+    50% {background-color: #e2e417;}
+    100% {background-color: #ffd503;}
+}
+
 
 .site-title {
     font-size: 26px;
@@ -16,7 +25,14 @@
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
-    float: left;
+    text-align: center;
+
+    
+
+    img {width:80%;
+        padding:20px;
+        display:block;
+        margin:auto;}
 
     &,
     &:visited {
@@ -25,7 +41,7 @@
 }
 
 .site-nav {
-    float: right;
+    text-align:center;
     line-height: 56px;
 
     .menu-icon {
