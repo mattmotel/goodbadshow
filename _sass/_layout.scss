@@ -18,6 +18,12 @@
     100% {background-color: #ffd503;}
 }
 
+@-webkit-keyframes gbbordercolor {
+    0%   {border: 1px solid #ffd503;}
+    50% {border: 1px solid #e2e417;}
+    100% {border: 1px solid #ffd503;}
+}
+
 
 .site-title {
     font-size: 26px;
@@ -235,11 +241,15 @@
 }
 .episode {
     width:calc(25% - 22px);
-    border:1px solid #ccc;
-    border-radius:5px;
+    animation:gbbordercolor 5s infinite;
+    
     padding:5px;
     margin:5px;
     position:relative;
+}
+
+.episode a{
+    color:#000;
 }
 
 .episode-title {
@@ -271,10 +281,14 @@
     text-align:right;
 }
 .post-download {
-    border-radius:5px;
-    background-color: #eee;
-    border:1px solid #ccc;
+    animation: gbcolor 5s infinite;
     padding:15px;
+}
+.post-download a {
+    color:#000;
+}
+.post-download small {
+    opacity:.5;
 }
 
 label{display:block;}
