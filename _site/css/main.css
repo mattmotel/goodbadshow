@@ -144,13 +144,15 @@ pre {
   .icon > svg path {
     fill: #828282; }
 
+body {
+  animation: gbcolor 5s infinite; }
+
 /**
  * Site header
  */
 .site-header {
   border-bottom: 1px solid #e8e8e8;
   min-height: 56px;
-  animation: gbcolor 5s infinite;
   position: relative; }
 
 @-webkit-keyframes gbcolor {
@@ -322,13 +324,10 @@ pre {
 
 .episode {
   width: calc(25% - 22px);
-  animation: gbbordercolor 5s infinite;
+  border: 1px solid rgba(0, 0, 0, 0.1);
   padding: 5px;
   margin: 5px;
   position: relative; }
-
-.episode a {
-  color: #000; }
 
 .episode-title {
   font-size: 24px;
@@ -357,7 +356,7 @@ pre {
   text-align: right; }
 
 .post-download {
-  animation: gbcolor 5s infinite;
+  background: #fff;
   padding: 15px; }
 
 .post-download a {
