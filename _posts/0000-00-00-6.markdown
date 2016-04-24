@@ -1,17 +1,24 @@
 ---
 layout: post
-title:  "The Shining"
+title:  "The Room"
 episode: 6
-date:   2016-02-23 17:18:06 -0500
-categories: movies good
-topic: The Shining
-mp3: http://fdlyr.co/d/onthegrid/cdn.5by5.tv/audio/broadcasts/onthegrid/2016/onthegrid-154.mp3
-size: 52156635
-length: "52:12"
+date:   2016-04-23 09:05:06 -0500
+categories: movies
+link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/260576587
+
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi malesuada nisl at condimentum congue. Nam elementum ultrices nibh, a commodo augue pellentesque sit amet. Aliquam quis turpis commodo, rutrum mauris in, aliquet risus. Nullam molestie varius mattis. Suspendisse sed molestie turpis. Integer mi diam, mollis in eros sit amet, efficitur tincidunt ex. Suspendisse potenti. Proin eu tortor sit amet diam lobortis elementum at vel erat. Donec fermentum, nisl quis venenatis elementum, felis felis pellentesque turpis, sed sagittis urna risus a est. Donec quis vehicula nunc. Maecenas at lacinia massa. Fusce sit amet mi eros. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent sit amet lectus feugiat, porttitor nibh et, scelerisque neque. Integer tincidunt leo a neque vehicula feugiat. Proin feugiat convallis justo sed eleifend.
+Is The Room good or bad?
 
-Vestibulum vitae lacus porttitor, pretium nunc sed, dapibus felis. Proin sit amet elementum metus. Pellentesque rhoncus quis diam non maximus. Nulla euismod, elit ac faucibus iaculis, eros lacus consectetur orci, at rutrum quam lectus vitae tortor. Nunc vel maximus sapien. Pellentesque sapien mauris, ornare a consectetur non, venenatis at tortor. Curabitur consequat tellus at suscipit pulvinar. Phasellus sagittis nibh justo, id tempor justo consequat ut. Etiam scelerisque vehicula elit.
-
-Maecenas ac eros nulla. Vestibulum laoreet hendrerit quam vel pretium. Integer tellus elit, tempus sit amet blandit ut, elementum vitae ligula. Nunc pulvinar, tortor eu scelerisque maximus, quam metus suscipit ex, id dignissim dui ligula a eros. Curabitur ultrices dui eget elit lacinia, sed bibendum purus faucibus. Pellentesque nec purus aliquet metus egestas accumsan nec id felis. Donec ultrices tincidunt pretium. Fusce quis commodo lorem. Vivamus mi nunc, egestas vel accumsan quis, rhoncus ac dui. Proin justo velit, tempor sit amet egestas sed, consectetur eget enim. Phasellus efficitur arcu ante, eget congue velit ullamcorper ut. Nunc semper est nibh, porttitor pharetra erat tincidunt vitae. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+<br/><br/>
+Links Mentioned:
+<br/>
+<a href="https://en.wikipedia.org/wiki/The_Room_(film)">The Room</a>
+<br/>
+<a href="http://www.audible.com/pd/Arts-Entertainment/The-Disaster-Artist-Audiobook/B00K5SCCXU?source_code=GO1GB907ESH060513&mkwid=s1LlkTIcH_dc&pcrid=78805351089&pmt=e&pkw=the%20disaster%20artist%20audiobook&gclid=CJ-kqvaJpswCFVhahgod_1gNgg">The Disaster Artist: My Life inside 'The Room', the Greatest Bad Movie Ever Made</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Infinite_monkey_theorem">Infinite monkey theorem</a>
+<br/>
+<a href="http://www.imdb.com/title/tt0199849/">Ninja Terminator</a>
+<br/>
+<a href="http://twitter.com/realgoodbadshow">@realgoodbadshow</a>

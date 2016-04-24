@@ -270,14 +270,14 @@ body{
 
 .post {
     position: relative;
+
+}
+.post-title {
+    padding:10px 0px;
 }
 .post-episode {
-    position:absolute;
-    top:-35px;
-    right:0px;
-    font-size:128px;
+    font-size:28px;
     opacity:.1;
-    text-align:right;
 }
 .post-download {
     background:#fff;

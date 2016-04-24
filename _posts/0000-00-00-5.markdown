@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  "Bill Burr"
+title:  "Airplane Seat Reclining"
 episode: 5
-date:   2016-02-22 17:18:06 -0500
-categories: comedy good
-topic: Bill Burr
-mp3: http://fdlyr.co/d/onthegrid/cdn.5by5.tv/audio/broadcasts/onthegrid/2016/onthegrid-154.mp3
-size: 52156635
-length: "52:12"
+date:   2016-04-20 01:50:06 -0500
+categories: humanity bad
+link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/259943541
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi malesuada nisl at condimentum congue. Nam elementum ultrices nibh, a commodo augue pellentesque sit amet. Aliquam quis turpis commodo, rutrum mauris in, aliquet risus. Nullam molestie varius mattis. Suspendisse sed molestie turpis. Integer mi diam, mollis in eros sit amet, efficitur tincidunt ex. Suspendisse potenti. Proin eu tortor sit amet diam lobortis elementum at vel erat. Donec fermentum, nisl quis venenatis elementum, felis felis pellentesque turpis, sed sagittis urna risus a est. Donec quis vehicula nunc. Maecenas at lacinia massa. Fusce sit amet mi eros. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent sit amet lectus feugiat, porttitor nibh et, scelerisque neque. Integer tincidunt leo a neque vehicula feugiat. Proin feugiat convallis justo sed eleifend.
+Is reclining your seat on an airplane good or bad?

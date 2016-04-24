@@ -1,21 +1,20 @@
 ---
 layout: post
-title:  "Planes, Planes, Planes"
+title:  "Humanity"
 episode: 4
-date:   2016-02-21 17:18:06 -0500
-categories: transport planes bad
-topic: planes
-mp3: http://fdlyr.co/d/onthegrid/cdn.5by5.tv/audio/broadcasts/onthegrid/2016/onthegrid-154.mp3
-size: 52156635
-length: "52:12"
+date:   2016-04-05 03:48:06 -0500
+categories: humanity good
+link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/259164716
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi malesuada nisl at condimentum congue. Nam elementum ultrices nibh, a commodo augue pellentesque sit amet. Aliquam quis turpis commodo, rutrum mauris in, aliquet risus. Nullam molestie varius mattis. Suspendisse sed molestie turpis. Integer mi diam, mollis in eros sit amet, efficitur tincidunt ex. Suspendisse potenti. Proin eu tortor sit amet diam lobortis elementum at vel erat. Donec fermentum, nisl quis venenatis elementum, felis felis pellentesque turpis, sed sagittis urna risus a est. Donec quis vehicula nunc. Maecenas at lacinia massa. Fusce sit amet mi eros. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent sit amet lectus feugiat, porttitor nibh et, scelerisque neque. Integer tincidunt leo a neque vehicula feugiat. Proin feugiat convallis justo sed eleifend.
+Is humanity good or bad?
 
-This is [an example](http://example.com/ "Title") inline link.
-
-[This link](http://example.net/) has no title attribute.
-
-This is [an example](http://example.com/ "Title") inline link.
-
-[This link](http://example.net/) has no title attribute.
+<br/><br/>
+Links Mentioned:
+<br/>
+<a href="http://twitter.com/realgoodbadshow">@realgoodbadshow</a>
+<br/>
+<a href="https://www.youtube.com/watch?v=rld0KDcan_w">George Carlin: Earth with Plastic</a>
+<br/>
+<a href="http://www.teach-nology.com/tutorials/teaching/maslow.gif">Maslow's Hierarchy of Needs</a>
+<br/>
