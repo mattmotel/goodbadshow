@@ -1,30 +1,34 @@
 ---
 layout: post
-title:  "Breadisode"
+title:  "Bread"
 episode: 1
-date:   2016-02-10 12:18:06 -0500
-categories: food good starthere
-topic: bread
-mp3: http://fdlyr.co/d/onthegrid/cdn.5by5.tv/audio/broadcasts/onthegrid/2016/onthegrid-154.mp3
-size: 52156635
-length: "52:48"
+date:   2016-03-28 03:35:06 -0500
+categories: food good starthere good
+link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/255515859
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+Is bread objectively good or bad?
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+<br/><br/>
+Links Mentioned:
+<br/>
+<a href="https://en.wikipedia.org/wiki/Qualia">Qualia</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Synesthesia">Not Synesthesia</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Red">Red</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Signs_(film)">Signs (the first of many references that Andy won't get)</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/List_of_breads">List of breads</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Wonder_Bread">Wonder Bread</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Bromine">Bromine</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Coeliac_disease">Coeliac disease</a>
+<br/>
+<a href="https://www.soylent.com">Soylent (is not flexible)</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Cake_Boss">Cake Boss</a>

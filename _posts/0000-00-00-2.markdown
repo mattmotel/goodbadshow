@@ -1,21 +1,20 @@
 ---
 layout: post
-title:  "Stainless"
+title:  "Nothing Movie"
 episode: 2
-date:   2016-02-19 17:18:06 -0500
-categories: appliances kitchen good
-topic: stainless steel appliances
-mp3: http://fdlyr.co/d/onthegrid/cdn.5by5.tv/audio/broadcasts/onthegrid/2016/onthegrid-154.mp3
-size: 52156635
-length: "52:12"
+date:   2016-04-01 02:51:06 -0500
+categories: movies art bad
+link: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/256683396
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi malesuada nisl at condimentum congue. Nam elementum ultrices nibh, a commodo augue pellentesque sit amet. Aliquam quis turpis commodo, rutrum mauris in, aliquet risus. Nullam molestie varius mattis. Suspendisse sed molestie turpis. Integer mi diam, mollis in eros sit amet, efficitur tincidunt ex. Suspendisse potenti. Proin eu tortor sit amet diam lobortis elementum at vel erat. Donec fermentum, nisl quis venenatis elementum, felis felis pellentesque turpis, sed sagittis urna risus a est. Donec quis vehicula nunc. Maecenas at lacinia massa. Fusce sit amet mi eros. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent sit amet lectus feugiat, porttitor nibh et, scelerisque neque. Integer tincidunt leo a neque vehicula feugiat. Proin feugiat convallis justo sed eleifend.
 
-This is [an example](http://example.com/ "Title") inline link.
+Is 90 minutes of silence and a blank screen an objectively bad movie?
 
-[This link](http://example.net/) has no title attribute.
-
-This is [an example](http://example.com/ "Title") inline link.
-
-[This link](http://example.net/) has no title attribute.
+<br/><br/>
+Links Mentioned:
+<br/>
+<a href="https://twitter.com/andymangold/status/682408637327872001" rel="nofollow" target="_blank">The twitter conversation that started this whole thing...</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Theory_of_relativity" rel="nofollow" target="_blank">Theory of relativity</a>
+<br/>
+<a href="https://en.wikipedia.org/wiki/Sallie_Gardner_at_a_Gallop#/media/File:The_Horse_in_Motion.jpg" rel="nofollow" target="_blank">The Horse in Motion</a>

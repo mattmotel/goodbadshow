@@ -4,22 +4,22 @@ title: Good/Bad
 permalink: /directory/
 ---
 
-<p>Things that are good</p>
+<p>Undeniably Good:</p>
 
 <ul>
   {% for post in site.categories.good %}
     {% if post.url %}
-        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.topic }}</a></li>
+        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
 
-<p>Things that are bad</p>
+<p>Undeniably Bad</p>
 
 <ul>
   {% for post in site.categories.bad %}
     {% if post.url %}
-        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.topic }}</a></li>
+        <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
