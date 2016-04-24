@@ -27,13 +27,13 @@ body{
 
 
 .logo {
-  letter-spacing: 2em;
+  letter-spacing: 1em;
   text-align: center;
 }
 
 %logo-type {
   display: inline-block;
-  max-height: 5em;
+  max-height: 3em;
   margin: 3% 0;
 
   @media screen and (min-width: 1000px) {
@@ -93,10 +93,6 @@ a.feed-link {
     text-align:center;
     line-height: 56px;
 
-    .menu-icon {
-        display: none;
-    }
-
     .page-link {
         color: $text-color;
         line-height: $base-line-height;
@@ -107,54 +103,6 @@ a.feed-link {
         }
     }
 
-    @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: $spacing-unit / 2;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
-
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
-
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
-        }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-
-            &:not(:last-child) {
-                margin-right: 0;
-            }
-            margin-left: 20px;
-        }
-    }
 }
 
 
@@ -165,6 +113,7 @@ a.feed-link {
 .site-footer {
     border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
+    text-align: center;
 }
 
 .footer-heading {
