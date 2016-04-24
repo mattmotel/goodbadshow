@@ -14,7 +14,6 @@
 <div class="episode-wrapper">
   {% for post in site.posts do %}
   <div class="episode">
-    <div class="episode-number">{{ post.episode }}</div>
     <div class="episode-date">{{ post.date | date: "%B %-d, %Y" }}</div>
     <h2 class="episode-title"><a href="{{ post.url | prepend: site.baseurl}}"> {{ post.title }}</a></h2>
   </div>

@@ -14,7 +14,7 @@ baseurl: "/goodbadshow" # the subpath of your site, e.g. /blog
 author: "Matt McInerney and Andy Mangold"
 showart: "http://icebox.5by5.tv/images/broadcasts/76/cover_quarter.jpg"
 url: "http://mattmotel.github.io" # the base hostname & protocol for your site
-twitter_username: goodbadshow
+twitter_username: realgoodbadshow
 
 # Build settings
 markdown: kramdown

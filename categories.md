@@ -4,6 +4,7 @@ title: Categories
 permalink: /categories/
 ---
 
+
 {% for category in site.categories %}
 <a name="{{ category | first }}">{{ category | first }}</a>
 
